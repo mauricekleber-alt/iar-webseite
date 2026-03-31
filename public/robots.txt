@@ -1,0 +1,8 @@
+User-agent: *
+Allow: /
+Disallow: /api/
+Disallow: /admin/
+Disallow: /karriere/bewerben
+Disallow: /anfrage
+
+Sitemap: https://iar-sicherheit.de/sitemap.xml
